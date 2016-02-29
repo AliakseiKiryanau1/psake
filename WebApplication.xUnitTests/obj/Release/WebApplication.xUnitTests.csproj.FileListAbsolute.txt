@@ -1,0 +1,4 @@
+D:\Solutions\psake\.build\temp\WebApplication.xUnitTests.dll
+D:\Solutions\psake\.build\temp\WebApplication.xUnitTests.pdb
+D:\Solutions\psake\WebApplication.xUnitTests\obj\Release\WebApplication.xUnitTests.dll
+D:\Solutions\psake\WebApplication.xUnitTests\obj\Release\WebApplication.xUnitTests.pdb
