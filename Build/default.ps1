@@ -35,7 +35,7 @@ task Init -description "Initialises the build by removing previous artifacts and
 		Remove-Item $outputDirectory -Force -Recurse
 	}
 	
-	Write-Host "Creating output directory located at ..\.build"
+	Write-Host "Creating output directory located at $outputDirectory"
 	New-Item $outputDirectory -ItemType Directory | Out-Null
 
 	Write-Host "Creating temporary directory located at $temporaryOutputDirectory"
