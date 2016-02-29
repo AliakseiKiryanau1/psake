@@ -1,0 +1,5 @@
+D:\Solutions\psake\.build\temp\WebApplication.Tests.dll
+D:\Solutions\psake\.build\temp\WebApplication.Tests.pdb
+D:\Solutions\psake\WebApplication.Tests\obj\Release\WebApplication.Tests.csprojResolveAssemblyReference.cache
+D:\Solutions\psake\WebApplication.Tests\obj\Release\WebApplication.Tests.dll
+D:\Solutions\psake\WebApplication.Tests\obj\Release\WebApplication.Tests.pdb

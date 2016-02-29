@@ -1,0 +1,5 @@
+D:\Solutions\psake\.build\temp\Build.dll
+D:\Solutions\psake\.build\temp\Build.pdb
+D:\Solutions\psake\Build\obj\Release\Build.csprojResolveAssemblyReference.cache
+D:\Solutions\psake\Build\obj\Release\Build.dll
+D:\Solutions\psake\Build\obj\Release\Build.pdb

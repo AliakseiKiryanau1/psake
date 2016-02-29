@@ -1,0 +1,4 @@
+D:\Solutions\psake\.build\temp\ClassLibrary.dll
+D:\Solutions\psake\.build\temp\ClassLibrary.pdb
+D:\Solutions\psake\ClassLibrary\obj\Release\ClassLibrary.dll
+D:\Solutions\psake\ClassLibrary\obj\Release\ClassLibrary.pdb
