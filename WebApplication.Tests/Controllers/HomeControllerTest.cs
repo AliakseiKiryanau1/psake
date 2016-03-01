@@ -7,16 +7,8 @@ namespace WebApplication.Tests.Controllers
     public class HomeControllerTest
     {
         [TestMethod]
-        public void About()
+        public void TestMethod1()
         {
-            //Arrange
-            HomeController controller = new HomeController();
-
-            //Act
-            ViewResult result = controller.About() as ViewResult;
-
-            //Assert
-            Assert.AreEqual("Your application description page.", result.ViewBag.Message);
         }
     }
 }
